@@ -17,5 +17,10 @@ namespace AAA
 
             Console.ReadLine();
         }
+
+        public static void printSomething()
+        {
+            Console.WriteLine("Something");
+        }
     }
 }
