@@ -20,7 +20,10 @@ namespace AAA
             Console.ReadLine();
         }
 
-        public static void Coom() { }
+        public static void Coom()
+        {
+            /////// merge sort
+        }
 
         public static void printSomething()
         {
