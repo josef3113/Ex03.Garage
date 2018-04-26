@@ -15,7 +15,7 @@ namespace AAA
 
             Console.WriteLine("Bye bye from nir");
 
-            Console.WriteLine("Bye bye from yosi");
+            Console.WriteLine("Bye bye from yosi ");
 
             Console.ReadLine();
         }
