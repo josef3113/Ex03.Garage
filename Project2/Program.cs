@@ -20,6 +20,8 @@ namespace AAA
             Console.ReadLine();
         }
 
+        public static void Coom() { }
+
         public static void printSomething()
         {
             Console.WriteLine("Something");
