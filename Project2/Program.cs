@@ -13,6 +13,8 @@ namespace AAA
 
             Console.WriteLine("Hello and you add me bye bye plz");
 
+            Console.WriteLine("Bye bye from nir");
+
             Console.ReadLine();
         }
     }
